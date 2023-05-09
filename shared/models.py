@@ -9,5 +9,3 @@ class BaseModel(models.Model):
     class META:
         abstract = True
 
-
-
