@@ -15,4 +15,3 @@ class BaseModel(models.Model):
 
 
 
-
