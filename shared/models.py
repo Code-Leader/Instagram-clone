@@ -22,4 +22,4 @@ class BaseModel(models.Model):
 
 
 
-        
+
