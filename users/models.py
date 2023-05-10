@@ -55,4 +55,3 @@ class User(AbstractUser, BaseModel):
 
 
 
-
