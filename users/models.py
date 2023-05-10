@@ -34,4 +34,3 @@ class User(AbstractUser, BaseModel):
     def __str__(self):
         return self.username
     
-
